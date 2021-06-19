@@ -1,0 +1,38 @@
+body {
+    font-family : Miller banner Roman,open sans;
+	font-size : 1.5em;
+}
+
+@font-face {
+	font-family: "Miller banner Roman";
+	src: url("./Miller\ Display\ Roman.otf");
+}
+
+#button {
+	background-color: black;
+	color: white;
+	padding : 15px;
+	border: 1px solid #000;
+	font-family : Miller banner Roman,open sans;
+}
+
+#button:hover {
+	background: #f6f6f6;
+    color: #000;
+	border: 1px solid;
+}
+
+#myNumber{
+	padding : 15px;
+	border: 1px solid #000;
+	width: 8%;
+}
+
+span{
+	font-weight: bold;
+}
+
+span{
+	line-height: 1.8;
+	font-weight: bold;
+}
